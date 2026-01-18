@@ -171,7 +171,7 @@ a:hover {
   display: flex;
   flex-direction: column;
   gap: 16px;
-  max-width: 360px;
+  max-width: 500px;
 }
 
 .media-item img,
@@ -271,3 +271,4 @@ a:hover {
   --muted: #666;
   --sidebar-w: 320px;
 }
+
