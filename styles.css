@@ -70,8 +70,6 @@ a:hover {
 }
 .email-underscore {
   font-style: oblique;
-  border-bottom: 2px solid currentColor;
-  padding-bottom: 2px;
 }
 
 .teaching {
@@ -279,6 +277,7 @@ a:hover {
   --muted: #666;
   --sidebar-w: 320px;
 }
+
 
 
 
