@@ -260,11 +260,11 @@ a:hover {
   }
 }
 .email-underscore {
-  text-decoration: none;
+  font-style: oblique;
   border-bottom: 2px solid currentColor;
   padding-bottom: 2px;
-  font-style: italic;
 }
+
 /* =========================
    VARIABLES
 ========================= */
@@ -278,5 +278,6 @@ a:hover {
   --muted: #666;
   --sidebar-w: 320px;
 }
+
 
 
